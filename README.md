@@ -1,2 +1,2 @@
 # upgraded-octo-tribble
-Code on cricket game.
+Built simple GUI using Netbeans
